@@ -23,11 +23,13 @@ Review recent transactions
 - Tabbed Interface: Allows users to interact with different banking operations such as viewing balances, transferring money, etc.
 
 ## Technologies Used
-![HTML 5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg)
-![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
-![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
+</p>
 
 ## Screenshots
 
-![Home Page]
+![Home Page](https://github.com/pheyboer/Bankist-Website/blob/main/img/bankistwebsite.png)
 
