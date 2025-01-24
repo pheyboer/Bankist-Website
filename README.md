@@ -15,7 +15,7 @@ Bankist is a simulated virtual banking application built as part of the [Udemy C
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
 </p>
 
-## How to get started
+## Getting Started
 
 ### Installation
 - Clone the repository: git clone git@github.com:pheyboer/Bankist-Website.git
