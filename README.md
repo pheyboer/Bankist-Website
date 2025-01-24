@@ -1,6 +1,8 @@
 # Bankist Website | A Virtual Bank
 
-Bankist is a simulated virtual banking application built as part of the [Udemy Course](https://www.udemy.com/course/the-complete-javascript-course/): The Complete JavaScript Course by Jonas Schmedtmann. This project is a frontend-focused exercise aimed at mastering advanced DOM manipulation techniques in JavaScript.
+The Bankist Website is a dynamic, visually appealing, and user-friendly banking website built with modern JavaScript, HTML, and CSS. This project is designed to simulate a front-end banking experience, focusing on advanced DOM manipulation, animations, and interactive elements. 
+
+The website is aimed at mastering the implementation of smooth scrolling, sticky navigation, dynamic content rendering, and user interactions within a single-page application.
 
 ## Features
 - Smooth Scrolling: A smooth scroll experience across the page for better navigation.
@@ -18,7 +20,7 @@ Bankist is a simulated virtual banking application built as part of the [Udemy C
 ## Getting Started
 
 ### Installation
-- Clone the repository: git clone git@github.com:pheyboer/Bankist-Website.git
+- Clone the repository: ```git clone git@github.com:pheyboer/Bankist-Website.git```
 - Open ```index.html``` in your browser to run the application.
 
 ## Screenshots
